@@ -80,3 +80,7 @@ Contribuições para este projeto são bem-vindas. Se encontrar problemas ou tiv
 ## Licença
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
+
+---
+
+*Nota: Este README é um modelo e deve ser personalizado de acordo com os detalhes específicos do seu projeto.*
